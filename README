@@ -1,1 +1,3 @@
-echo hello  ~ this is a demo~~~  how are you? 
+echo hello  ~ this is a demo~~~  how are you?
+
+echo 'this is write in master ~';
